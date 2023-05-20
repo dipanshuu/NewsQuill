@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+![Capture1](https://github.com/dipanshuu/NewsQuill/assets/84615076/0c369523-1610-40a2-ada6-f7203f8566a7)
+
+![Capture2](https://github.com/dipanshuu/NewsQuill/assets/84615076/047dd504-2a5d-4b53-8513-15cdd83bb519)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
